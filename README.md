@@ -1,2 +1,2 @@
 # GithubTest
-Learning and practice of github commandas
+$ Learning and practice of #github#cd commands
